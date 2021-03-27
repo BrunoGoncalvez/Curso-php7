@@ -1,0 +1,15 @@
+{
+    "name": "bruno/composer",
+    "description": "Gerenciador de Dependencias",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bruno",
+            "email": "brunosgoncalvez@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
